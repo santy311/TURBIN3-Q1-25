@@ -1,5 +1,3 @@
-use std::net::TcpStream;
-
 use anchor_lang::{
     prelude::*,
     system_program::{transfer, Transfer},
